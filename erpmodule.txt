@@ -1,6 +1,0 @@
-Production
-1.raw material
-2.man power
-3.scrap
-4.product needed
-5.power supply
